@@ -1,3 +1,26 @@
 .turn-off {
 	color: red;
 }
+
+.toggle-on-off {
+	display: none;
+}
+
+.questions:before {
+	content: '\21D2\00A0';
+}
+
+.questions {
+	font-weight: bolder;
+	font-family: 'Josefin Sans';
+	font-size: 1.1em;
+}
+
+.questions:hover {
+	cursor: pointer;
+}
+
+.toggle-on-off p {
+	font-family: 'Josefin Sans';
+	font-size: 1.2em;
+}

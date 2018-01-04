@@ -1,4 +1,4 @@
-p, ul li {
+p, .col-md-5 ul li {
 	font-family: 'Josefin Sans', sans-serif;
 	font-weight: bold;
 	font-size: 1.1em;
