@@ -1,0 +1,21 @@
+#footer {
+	background-color: #f5f5f5;
+}
+
+#footer-logo {
+	height: 65px;
+}
+
+
+.list-items-footer {
+	list-style-type: none;
+}
+
+.footer-right-aligned {
+	text-align: right;
+	font-family: "Josefin Sans", sans-serif;
+}
+
+.footer-right-aligned li {
+	font-weight: 600;
+}

@@ -1,0 +1,15 @@
+p, ul li {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.colored-contact {
+	text-decoration: underline;
+	color: #666666;
+}
+
+.colored-contact:hover {
+	text-decoration: none;
+	color: #666666;
+}

@@ -1,0 +1,35 @@
+.hero-image {
+	background-image: url(../../assets/home-title.jpg);
+	height: 625px;
+	max-width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.logo-container {
+	width: 100%;
+	background-position: center;
+	position: relative;
+	top: 175px;
+	text-align: center;
+}
+
+.superimposed-image {
+	width: auto;
+	max-width: 100%;
+}
+
+.hero-text {
+	background-position: center;
+	max-width: 100%;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 0.9em;
+}
+
+.perfect-font {
+	font-family: "Josefin Sans";
+	font-weight: normal;
+	color: #363636;
+}
